@@ -12,8 +12,9 @@ The development of a web portal to create a consolidated matrix view of user acc
 
 This project consists of a number of AWS platforms and components as follows:
 1. Single VPC (VPC-A - Shared services)
-3. Multiple EC2 instances (Grafana, Django Portal, Aurora DB, Strongswan host etc. )
-4. An API Gateway
+2. Multiple EC2 instances (Grafana, Django Portal, Aurora DB, Strongswan host etc. )
+3. An API Gateway
+4. Multiple S3 buckets for data loading and updates
 
 ---
 
@@ -21,7 +22,7 @@ This project consists of a number of AWS platforms and components as follows:
 
 The System Architecure is depicted below:
 
-### <img src="./SAP-Accounts.png">
+<img src="./SAP-Accounts.png">
 
 ---
 
