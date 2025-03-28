@@ -34,7 +34,7 @@ The system works as follows:
 
 ---
 
-API Gatewat to Lambda Data Flow
+API Gateway to Lambda Data Flow
 
 <img src="./API2S3.png">
    
