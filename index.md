@@ -31,7 +31,7 @@ The system works as follows:
 
 ---
 
-### System Diagrams
+### System Component Diagrams
 
 ---
 
