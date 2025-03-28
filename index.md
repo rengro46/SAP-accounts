@@ -21,7 +21,7 @@ This project consists of a number of AWS platforms and components as follows:
 
 The System Architecure is depicted below:
 
-<!-- ### <img src="./SAP-Accounts.png">
+### <img src="./SAP-Accounts.png">
 
 ---
 
@@ -42,6 +42,6 @@ API Gatewat to Lambda Data Flow
 
 S3 bucket to Aurora DB data flow
 
-<!-- ### <img src="./S3toAurora.png">
+<img src="./S3toAurora.png">
 
 ---
