@@ -11,7 +11,7 @@ The development of a web portal to create a consolidated matrix view of user acc
 ### Description
 
 This project consists of a number of AWS platforms and components as follows:
-1. Single VPC (VPC-A - Shared services)
+1. Single VPC
 2. Multiple EC2 instances (Grafana, Django Portal, Aurora DB, Strongswan host etc. )
 3. An API Gateway
 4. Multiple Python based Lambda functions to perform a multitude of serverless compute functions
