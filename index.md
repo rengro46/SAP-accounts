@@ -24,7 +24,7 @@ This project consists of a number of AWS platforms and components as follows:
 
 The System Architecure is depicted below:
 
-<img src="./SAPAcct.png" Width=300 Height=400>
+<img src="./SAPAcct.png" Width=500 Height=400>
 
 ---
 
